@@ -926,6 +926,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+        "login":  "Mo-zang",
+        "name":  "Mo-zang",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76259939?v=4",
+        "profile": "https://github.com/Mo-zang",
+        "contributions": [
+            "doc"
+        ]
     }
   ],
   "contributorsPerLine": 7,
