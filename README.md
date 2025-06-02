@@ -219,6 +219,7 @@
       <td align="center"><a href="http://www.oneboard.co.kr"><img src="https://avatars.githubusercontent.com/u/51477836?v=4?s=100" width="100px;" alt="742 Soft - K"/><br /><sub><b>742 Soft - K</b></sub></a><br /><a href="https://github.com/laravelkr/docs/commits?author=742soft" title="Documentation">📖</a></td>
       <td align="center"><a href="https://github.com/ChoSeyoung"><img src="https://avatars.githubusercontent.com/u/42459067?v=4?s=100" width="100px;" alt="CHO SE YOUNG"/><br /><sub><b>CHO SE YOUNG</b></sub></a><br /><a href="https://github.com/laravelkr/docs/commits?author=ChoSeyoung" title="Documentation">📖</a></td>
       <td align="center"><a href="https://github.com/jjkim01"><img src="https://avatars.githubusercontent.com/u/25719259?v=4?s=100" width="100px;" alt="jjkim01"/><br /><sub><b>jjkim01</b></sub></a><br /><a href="https://github.com/laravelkr/docs/commits?author=jjkim01" title="Documentation">📖</a></td>
+      <td align="center"><a href="https://github.com/Mo-zang"><img src="https://avatars.githubusercontent.com/u/76259939?v=4?s=100" width="100px;" alt="Mo-zang"/><br /><sub><b>Mo-zang</b></sub></a><br /><a href="https://github.com/laravelkr/docs/commits?author=Mo-zang" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
